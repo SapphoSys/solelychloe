@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1620" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
     <defs>
         <style/>
     </defs>
@@ -1168,7 +1168,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    108k added, 72.7k removed
+                                    173k added, 124k removed
                                 </div>
                             </section>
                             <section>
@@ -1348,14 +1348,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.70012114333113" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="226.70012114333113" y="0" width="138.1390638130682" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="364.8391849563993" y="0" width="43.92006722909186" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="408.7592521854912" y="0" width="27.765571283573617" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.5248234690648" y="0" width="9.05772316020387" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.5825466292687" y="0" width="6.3889028343173955" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.97144946358605" y="0" width="5.669988103943161" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="457.6414375675292" y="0" width="2.3585624324707783" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.70358502427268" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="226.70358502427268" y="0" width="138.13414591555198" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="364.8377309398247" y="0" width="43.92073830894422" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="408.7584692487689" y="0" width="27.76599552963364" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.52446477840255" y="0" width="9.057861558341774" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.5823263367443" y="0" width="6.389000454021583" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.9713267907659" y="0" width="5.670074738937589" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="457.6414015297035" y="0" width="2.3585984702965113" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1446,6 +1446,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">solelychloe/zhenil.kz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ad55827</div>
+                                        <div class="message">chore: oops, change to /edit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1551,19 +1571,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">SuperNG6/Docker-qBittorrent-Enhanced-Edition</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">jesec/flood</span>
                                     </div>
                                 </div>
                             </section>
